@@ -10,12 +10,12 @@ Completed During The 1st Ever Piscine (June - July 2021) at 42 Abu Dhabi.
 </p>
 
 <h3> C00 - Introduction to C </h3>
-<h6> ex00: </h6> ft_putchar - Print a Character <br/>
-<h6> ex01: </h6> ft_print_alphabet - Print the Alphabet<br/>
-<h6> ex02: </h6> ft_print_reverse_alphabet - Print the Alphabet in Reverse<br/>
-<h6> ex03: </h6> ft_print_numbers - Print the Numbers 0 to 9<br/>
-<h6> ex04: </h6> ft_is_negative - Print the Numbers 9 to 0 in Reverse<br/>
-<h6> ex05: </h6> ft_print_comb - Combine Numbers into Different Double Combinations<br/>
+ex00: ft_putchar - Print a Character <br/>
+ex01: ft_print_alphabet - Print the Alphabet<br/>
+ex02: ft_print_reverse_alphabet - Print the Alphabet in Reverse<br/>
+ex03: ft_print_numbers - Print the Numbers 0 to 9<br/>
+ex04: ft_is_negative - Print the Numbers 9 to 0 in Reverse<br/>
+ex05: ft_print_comb - Combine Numbers into Different Double Combinations<br/>
 <br/>
 
 <h3> C01 - Pointers and If Statements </h3>
